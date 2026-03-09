@@ -3,6 +3,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-GPU-red)](https://pytorch.org)
 [![FinBERT](https://img.shields.io/badge/FinBERT-HuggingFace-yellow)](https://huggingface.co/ProsusAI/finbert)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 Does financial news sentiment actually predict stock returns? I wanted to find out.
 
 ## Results at a Glance
